@@ -1,0 +1,6 @@
+{
+  "name": "CodeWordle – Decode the Digital World",
+  "description": "Interactive Computer Science Wordle game tailored for Class 11 & 12 students covering Python, SQL, Networks, Cybersecurity, and Algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
